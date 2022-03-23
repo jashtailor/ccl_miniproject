@@ -1,0 +1,16 @@
+pip==21.2.4
+tweepy==3.10.0
+yfinance==0.1.63
+pandas==1.2.3
+nltk==3.6.1
+gensim==4.0.1
+tensorflow==2.5.0
+plotly.express==0.4.1
+scikit-learn==0.24.2
+lightgbm==3.2.1
+datetime==4.3
+coinbase==2.1.0
+requests==2.25.1
+simplejson==3.17.5
+newsapi-python==0.2.6
+streamlit==0.87.0
