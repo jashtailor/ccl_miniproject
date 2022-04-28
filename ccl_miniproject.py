@@ -314,6 +314,9 @@ def func(name):
 # FRONTEND
 side_bar = ['None'] + search_words
 choice = st.sidebar.selectbox("Menu", side_bar)
+st.write('Preeti Suvarna 21 182113')
+st.write('Jash Tailor 23 182115')
+st.write('Abraham Thothiyil 25 182117')
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------
 if choice == side_bar[0]:
